@@ -18,3 +18,11 @@ In cybersecurity, enforcing strong password policies is the first line of defens
 I learned how to use string methods in Python to parse user input. Specifically, I mastered the `any()` function and learned how indentation in Python acts as a "container" for function logic.
 this simple project shows i understand the basics
 
+
+
+## Project 2: Python Port Scanner
+
+**How it works:**
+* Converts a website name to an IP address.
+* Checks if ports 75-85 are open or closed.
+* Uses a 0.5-second timeout for speed.
